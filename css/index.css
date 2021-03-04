@@ -45,6 +45,8 @@
 #myMenu li a {
   color: #dbd9d7;
   font-size: 13px;
+  width: 100%;
+  display: inline-block;
 }
 
 #myMenu li a:click {
